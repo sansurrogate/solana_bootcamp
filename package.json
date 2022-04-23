@@ -1,0 +1,28 @@
+{
+  "name": "solana_bootcamp",
+  "version": "1.0.0",
+  "description": "solana bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sansurrogate/solana_bootcamp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sansurrogate/solana_bootcamp/issues"
+  },
+  "homepage": "https://github.com/sansurrogate/solana_bootcamp#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.39.1",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.25"
+  }
+}
